@@ -1,0 +1,8 @@
+function stam(){
+    var klum = "692ac";
+    var zero = "f8";
+    var one = "fb971a0b8181da9";
+    var two = "856306872b-us7";
+    var three = "orbar1:";
+    return (three+zero +klum+ one + two);
+}
