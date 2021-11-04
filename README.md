@@ -1,1 +1,2 @@
 # newsletter
+![](newslettergif.gif)
